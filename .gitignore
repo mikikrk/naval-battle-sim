@@ -1,9 +1,2 @@
-*.class
-
-# Package Files #
-*.jar
-*.war
-*.ear
-/nbproject/private/
-/dist/
-/build/
+/NavalBattleSim/nbproject/private/
+/NavalBattleSim/build/
